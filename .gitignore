@@ -1,0 +1,8 @@
+*.pyc
+*.rmf3
+*.log
+.DS_Store
+__pycache__
+*~
+*.png
+output/*
